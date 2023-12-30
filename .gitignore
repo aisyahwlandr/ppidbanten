@@ -1,0 +1,4 @@
+# Abaikan file bernama
+koneksi.php
+composer.lock
+.htaccess
